@@ -2,6 +2,7 @@ from django.db import models
 import uuid
 
 # Create your models here.
+#'django-insecure-r0bk58d0mcxnvjw!_yl@39s114=!*pz@n_gmt^m)7u-_=ae=^n'
 
 
 class Project(models.Model):
